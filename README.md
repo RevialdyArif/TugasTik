@@ -1,6 +1,6 @@
 # Game Based Learning
 ## Background
-Game based learning merupakan solusi dalam meningkatkan hail belajar siswa . Data dikumpulkan melalui kuesioner umpan balik, pengamatan sistematis dan survei pra dan pasca tes. Hasil menunjukkan bahwa game based learning ini secara signifikan meningkatkan pengetahuan siswa dalam pembelajaran. Selain itu, game based learning didemonstrasikan sebagai alat pembelajaran yang berguna dan sebagai aktivitas untuk meningkatkan keterampilan sosial.
+Game based learning merupakan solusi dalam meningkatkan hasil belajar siswa . Data dikumpulkan melalui kuesioner umpan balik, pengamatan sistematis dan survei pra dan pasca tes. Hasil menunjukkan bahwa game based learning ini secara signifikan meningkatkan pengetahuan siswa dalam pembelajaran. Selain itu, game based learning didemonstrasikan sebagai alat pembelajaran yang berguna dan sebagai aktivitas untuk meningkatkan keterampilan sosial.
 ## Data
 Peserta studi di seluruh dunia adalah sample dengan total lebih dari 200 partisipan, dimana mereka mengisi kuisioner yang diberikan. Tidak hanya para murid, guru juga ikut memantau jalannya kuisioner yang diantaranya telah mengajar di sekolah menengah lebih dari 6 tahun
 ## Metode

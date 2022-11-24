@@ -11,4 +11,5 @@ Hal yang disajikan di paper lebih fokus kepada kegunaan game sebagai media pembe
 Hasil dari percobaan dengan menggunakan game sebagai media pembelajaran menunjukkan bahwa terdapat perbedaan signifikan dalam jawaban benar bahwa murid lebih dapat memahami pembelajaran yang diberikan setelah bermain game. Hal ini jelas akan mengambangkan media pembelajaran baru kedepannya dengan menggunakan game sebagai media pembelajaran yang baru
 ## Referensi
 Cardinot, A., & Fairfield, J. A. (2019). Game-based learning to engage students with physics and astronomy using a board game. International Journal of Game-BasedLearning,9(1),42–57. https://doi.org/10.4018/IJGBL.2019010104
+
 Ristapawa Indra  Antomi Saregar, M. K. (2018). European Journal of Educational Research. European Journal of Educational Research, 9(3), 1063–1074.

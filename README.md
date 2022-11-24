@@ -1,4 +1,4 @@
-# Game Based Learning to Engage Students With Physics and Astronomy Using a Board Game
+# Game Based Learning
 ## Background
 Dalam artikel penelitian ini, penulis mengembangkan permainan papan astronomi baru dan meneliti bagaimana pendekatan ini dapat memfasilitasi pembelajaran dan pengajaran topik astronomi yang tercakup dalam Silabus Sains Irlandia yang baru. Sebanyak 119 siswa pasca sekolah dasar ikut serta dalam uji coba percontohan di seluruh Irlandia. Data dikumpulkan melalui kuesioner umpan balik, pengamatan sistematis dan survei pra dan pasca tes. Hasil menunjukkan bahwa permainan papan astronomi ini secara signifikan meningkatkan pengetahuan siswa tentang konsep astronomi dan persepsi para ilmuwan. Selain itu, para guru menunjukkan sikap positif terhadap pendekatan pengajaran astronomi ini. Selain itu, permainan didemonstrasikan sebagai alat pembelajaran yang berguna dan sebagai aktivitas untuk meningkatkan keterampilan sosial.
 ## Data
